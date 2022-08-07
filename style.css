@@ -337,6 +337,7 @@ button {
     top: 75px;
     padding: 0 2rem;
     margin-top: 75px;
+    overflow: hidden;
 }
 
 /* ************************** -- HOME -- ************************** */
